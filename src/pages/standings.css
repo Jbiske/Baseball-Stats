@@ -1,0 +1,62 @@
+.standings-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .standings-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .standings-league {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 800px;
+  }
+  
+  .standings-division {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .standings-team {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .standings-team:nth-child(even) {
+    background-color: #f5f5f5;
+  }
+  
+  .standings-team:last-child {
+    margin-bottom: 0;
+  }
+  
+  .standings-team-name {
+    flex-basis: 60%;
+    font-weight: bold;
+  }
+  
+  .standings-team-record {
+    flex-basis: 20%;
+    text-align: center;
+  }
+  
+  .standings-team-gb {
+    flex-basis: 20%;
+    text-align: center;
+  }
