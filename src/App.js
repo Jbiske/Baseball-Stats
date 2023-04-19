@@ -4,8 +4,8 @@ import Navbar from "./components/Navbar";
 import Home  from "./pages/Home";
 import PlayerStats from "./pages/PlayerStats";
 import TeamStats from "./pages/TeamStats";
-import Standings from './pages/Standings'
-import css from './app.css'
+import Standings from './pages/Standings';
+import css from './app.css';
 
 
 function App() {

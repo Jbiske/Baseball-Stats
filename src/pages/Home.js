@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import sho from './imgs/sho.jpg'
 import stand from './imgs/standings.jpg'
-import teams from './imgs/teams.jpg'
+import team from './imgs/teams.jpg'
 
 function Home() {
   return (
@@ -15,7 +15,7 @@ function Home() {
           <p>View statistics for MLB players.</p>
         </Link>
         <Link to="/teamstats" className="homepage-section">
-          <img src={teams} alt="Team Stats" />
+          <img src={team} alt="Team Stats" />
           <h3>Team Stats</h3>
           <p>View statistics for MLB teams.</p>
         </Link>

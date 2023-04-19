@@ -8,6 +8,10 @@ A small side project for displaying mlb stats and standings using react and a ml
 
 ## Deployment
 
+Deployed Link: 
+
+
+
 To deploy this project run you need to install axios so the api will work
 
 ```bash
