@@ -62,4 +62,6 @@ const Standings = () => {
   );
 };
 
+
+
 export default Standings;
