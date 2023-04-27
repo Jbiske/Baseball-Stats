@@ -2,13 +2,13 @@
 # MLB STATS
 Baseball Stats
 
-A small side project for displaying mlb stats and standings using react and a mlb stats api. Using SportsData.io api 
+A small side project for displaying mlb stats and standings using react and a mlb stats api. Using SportsData.io api. Work in porgress and currently not completetly finished. 
 
 
 
 ## Deployment
 
-Deployed Link: 
+Deployed Link: https://jb-baseballstatsbeta.netlify.app
 
 
 
